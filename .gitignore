@@ -1,0 +1,20 @@
+# Visual Studio 缓存与用户设置
+.vs/
+*.user
+
+# 编译中间产物与输出
+x64/
+x86/
+Debug/
+Release/
+*.obj
+*.tlog
+*.pdb
+*.idb
+*.ipch
+*.ilk
+*.exe
+*.log
+
+# WorkBuddy / 编辑器
+.workbuddy/
